@@ -1,0 +1,19 @@
+{
+    "name": "aisstreamjs",
+    "version": "1.0.0",
+    "description": "A JS client for aisstream.io that takes in a set of MMSI values, records them to memory and then writes them to file",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "moment-timezone": "^0.5.43",
+      "split-array": "^1.0.1",
+      "websocket": "^1.0.34",
+      "winston": "^3.10.0",
+      "ws": "^8.11.0"
+    }
+  }
+  
